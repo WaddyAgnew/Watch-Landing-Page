@@ -70,6 +70,7 @@ nav{
     font-family: 'Playfair Display', serif;
     font-weight: lighter;
 }
+/*grid1*/
 .grid_item_1{
     position: absolute;
     top:300%;
@@ -91,6 +92,7 @@ nav{
     text-decoration: none;
     color: black;
 }
+/*grid2*/
 .grid_item_2{
     position: absolute;
     top:300%;
