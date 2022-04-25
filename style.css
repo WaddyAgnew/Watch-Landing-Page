@@ -37,6 +37,7 @@ nav{
     left: 65%;
     top: 20%;
 }
+/*-------------Body----------*/
 .header-Text h1{
     font-size: 100px;
     color: #fff;
@@ -56,6 +57,40 @@ nav{
     font-family: 'Playfair Display', serif;
     font-weight: lighter;
 }
+.slider_Body{
+    margin: 10%;
+    margin-left:20%;
+}
+.slider{
+    
+    position: relative;
+    width:500px;
+    height: 265px;
+
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+}
+.slider ul {
+    position: relative;
+    list-style: none;
+    height: 100%;
+    width: 10000%;
+    padding: 0;
+    margin: 0;
+    transition: all 750ms ease;
+    left: 0;
+}
+.slider ul li {
+    position: relative;
+    height: 100%;
+  
+    float: left;
+}
+.slider ul li img{
+    width: 50px;
+    height: 265px;
+}
+/*-----------Footer---------*/
 .footer{
     width: 100%;
     height: 400px;
@@ -70,6 +105,7 @@ nav{
     font-family: 'Playfair Display', serif;
     font-weight: lighter;
 }
+
 /*grid1*/
 .grid_item_1{
     position: absolute;
