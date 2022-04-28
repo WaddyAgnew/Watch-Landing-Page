@@ -67,9 +67,9 @@ nav{
 #slider{
     
     position: relative;
-    width:500px;
-    height: 265px;
-    left: 33%;
+    width:700px;
+    height: 320px;
+    left: 28%;
     overflow: hidden;
     box-shadow: 0 0 30px rgba(187, 11, 11, 0.3);
 }
@@ -90,8 +90,8 @@ nav{
     float: left;
 }
 #slider ul li img{
-    width: 500px;
-    height: 265px;
+    width: 700px;
+    height: 350px;
 }
 #slider #prev, #slider #next {
     width: 50px;
